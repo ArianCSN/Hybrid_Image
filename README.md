@@ -29,10 +29,10 @@ create_hybrid_image('path_to_imageA.jpg', 'path_to_imageB.jpg');
 
 ## Results
 
-### Image A (Low Frequencies)
+### Image A
 ![image1](https://github.com/ArianCSN/Hybrid_Image/assets/146763196/1c1ed8a2-40f6-4fb4-8299-afd40274f8c6)
 
-### Image B (High Frequencies)
+### Image B
 ![image2](https://github.com/ArianCSN/Hybrid_Image/assets/146763196/e2a7bbbf-4b57-4c0b-af44-9a22187da93d)
 
 ### Hybrid Image
