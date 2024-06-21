@@ -22,11 +22,6 @@ Ensure you have MATLAB installed on your system.
 2. Update the main.m script with the paths to your input images.
 3. Run the main.m script in MATLAB.
 
-### Example
-
-% main.m
-create_hybrid_image('path_to_imageA.jpg', 'path_to_imageB.jpg');
-
 ## Results
 
 ### Image A
